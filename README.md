@@ -6,6 +6,5 @@ It primarly uses Alexey Yolo V3 implementation (https://github.com/AlexeyAB/dark
 
 Results can be seen at:
 
-* Video:  https://youtu.be/3rKpIABgzQQ
+* Video:  https://youtu.be/1lPFxiLnUY8
 * df:     https://drive.google.com/file/d/1bcQ8MOkKnZPlURxMW6BOis5RdUoID0Vz/view?usp=sharing
-* df3:    https://drive.google.com/file/d/1ZpYtTZWpnfBDfJuVFptRSt6fKCa-8a39/view?usp=sharing
